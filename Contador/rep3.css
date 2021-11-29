@@ -1,0 +1,19 @@
+
+.div-calcu {
+    border: solid black;
+    display: flexbox;
+    text-align: center;
+    justify-content: center;
+    width: 10vw;
+    }
+#div-calculadoras {
+    display: flex;
+    border: solid grey;
+    margin-top: 5em;
+    justify-content: space-around;
+}
+
+.botones {
+    gap: 1em;
+    border: solid blue;
+}
