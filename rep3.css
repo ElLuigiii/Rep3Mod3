@@ -1,0 +1,18 @@
+.div-calcu {
+    border: solid black;
+    display: flexbox;
+    text-align: center;
+    justify-content: center;
+    width: 10vw;
+    }
+
+
+.botones {
+    gap: 1em;
+    border: solid blue;
+}
+#contadores {
+    display: flex;
+    justify-content: space-around;
+}
+
